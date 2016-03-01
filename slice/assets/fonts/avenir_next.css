@@ -1,0 +1,141 @@
+
+@font-face {
+
+    font-family: 'AvenirNext';
+
+    src: url('avenir-next-thin.eot');
+
+    src: url('avenir-next-thin.eot?#iefix') format('embedded-opentype'),
+
+         url('avenir-next-thin.woff') format('woff'),
+
+         url('avenir-next-thin.ttf') format('truetype'),
+
+         url('avenir-next-thin.svg#avenir-next-thin') format('svg');
+
+    font-weight: 200;
+
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'AvenirNext';
+
+    src: url('avenir-next-regular.eot');
+
+    src: url('avenir-next-regular.eot?#iefix') format('embedded-opentype'),
+
+         url('avenir-next-regular.woff') format('woff'),
+
+         url('avenir-next-regular.ttf') format('truetype'),
+
+         url('avenir-next-regular.svg#avenir-next-regular') format('svg');
+
+    font-weight: 500;
+
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'AvenirNext';
+
+    src: url('avenir-next-italic.eot');
+
+    src: url('avenir-next-italic.eot?#iefix') format('embedded-opentype'),
+
+         url('avenir-next-italic.woff') format('woff'),
+
+         url('avenir-next-italic.ttf') format('truetype'),
+
+         url('avenir-next-italic.svg#avenir-next-italic') format('svg');
+
+    font-weight: 500;
+
+    font-style: italic;
+
+}
+
+@font-face {
+
+    font-family: 'AvenirNext';
+
+    src: url('avenir-next-italic.eot');
+
+    src: url('avenir-next-italic.eot?#iefix') format('embedded-opentype'),
+
+         url('avenir-next-italic.woff') format('woff'),
+
+         url('avenir-next-italic.ttf') format('truetype'),
+
+         url('avenir-next-italic.svg#avenir-next-italic') format('svg');
+
+    font-weight: 500;
+
+    font-style: italic;
+
+}
+
+@font-face {
+
+    font-family: 'AvenirNext';
+
+    src: url('avenirnextmedium.eot');
+
+    src: url('avenirnextmedium.eot?#iefix') format('embedded-opentype'),
+
+         url('avenirnextmedium.woff') format('woff'),
+
+         url('avenirnextmedium.ttf') format('truetype');
+
+    font-weight: 600;
+
+    font-style: normal;
+
+}
+
+@font-face {
+
+    font-family: 'AvenirNext';
+
+    src: url('avenirnextdemibold.eot');
+
+    src: url('avenirnextdemibold.eot?#iefix') format('embedded-opentype'),
+
+         url('avenirnextdemibold.woff') format('woff'),
+
+         url('avenirnextdemibold.ttf') format('truetype');
+
+    font-weight: 700;
+
+    font-style: normal;
+
+}
+
+
+@font-face {
+
+    font-family: 'AvenirNext';
+
+    src: url('avenir-next-bold.eot');
+
+    src: url('avenir-next-bold.eot?#iefix') format('embedded-opentype'),
+
+         url('avenir-next-bold.woff') format('woff'),
+
+         url('avenir-next-bold.ttf') format('truetype'),
+
+         url('avenir-next-bold.svg#avenir-next-bold') format('svg');
+
+    font-weight: 800;
+
+    font-style: normal;
+
+}

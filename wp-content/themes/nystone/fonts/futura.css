@@ -1,0 +1,59 @@
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-Light.otf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-LightOblique.otf");
+    font-weight: 200;
+    font-style:italic;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-CondensedBold.otf");
+    font-weight: 700;
+    font-style:condensed;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-Book.otf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-BookOblique.otf");
+    font-weight: 500;
+    font-style:italic;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-Medium.otf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-MediumOblique.otf");
+    font-weight: 600;
+    font-style:italic;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-Bold.otf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url("FuturaPRO-BoldOblique.otf");
+    font-weight: 700;
+    font-style:italic;
+}
+
